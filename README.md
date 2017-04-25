@@ -1,2 +1,3 @@
 # dot-emacs
-My emacs customizations
+
+DEPRECATED in favor of https://github.com/schuster/dotfiles
